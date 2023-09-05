@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Galada&family=Work+Sans:wght@300&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("https://media1.giphy.com/headers/salmonickatelier/POPQ7UTeHRN0.jpg");
+  background-size: cover;
+  background-position: center;
+  /* font-family: "Metal Mania", cursive; */
+  /* font-family: "Work Sans", sans-serif; */
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.login {
+  color: black;
+  font-family: "Stardos Stencil", cursive;
+}
+.signup {
+  color: black;
+  font-family: "Stardos Stencil", cursive;
+}
+.talk {
+  font-family: "Metal Mania", cursive;
+}
+.talkbox {
+  font-family: "Metal Mania", cursive;
+}
